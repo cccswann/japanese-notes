@@ -1,2 +1,4 @@
-# japanese-notes
-My notes for self-studying Japanese through Genki I &amp; II, Quartet I &amp; II, and studying for JLPT.
+# React App
+An application for tracking progress while learning the Japanese language. 
+
+
